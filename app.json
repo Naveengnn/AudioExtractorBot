@@ -7,17 +7,17 @@
     "env": {
       "botToken": {
         "description": "Telegram bot token.",
-        "value": "",
+        "value": "1798516668:AAFkm3tFKUVD-3rdPkofJRV3nLqraguL5t8",
         "required": true
       },
       "apiId": {
         "description": "Telegram apiId",
-        "value": "",
+        "value": "2722224",
         "required": true
       },
       "apihash": {
         "description": "Telegram apiHash.",
-        "value": "",
+        "value": "ed73235a355120eac379d077156e8b58",
         "required": true
       }
     },
